@@ -11,5 +11,5 @@ This is a reproduction of the famous board game "Connect 4".
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python pygame library
-- Python random library
+- Python `pygame` library
+- Python `random` library
